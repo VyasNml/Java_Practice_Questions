@@ -17,7 +17,7 @@ public class S4_C2_E2_basic_type_conversion {
         int i;
         double d;
         char c;
-        boolean b;
+        boolean bool;
 
         //int to double
         i = 15;
