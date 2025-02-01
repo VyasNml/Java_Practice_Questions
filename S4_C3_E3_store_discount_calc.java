@@ -51,7 +51,7 @@ public class S4_C3_E3_store_discount_calc {
         }else{
             dis = 0;
         }
-        System.out.println("Discount: "+dis);
-        System.out.println("Final Amount: "+t_amt);
+        System.out.println("Discount: ₹"+dis);
+        System.out.println("Final Amount: ₹"+t_amt);
     }
 }
