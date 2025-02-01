@@ -40,11 +40,11 @@ public class S4_C4_E4_premium_member_check {
         int age,income;
         boolean b;
 
-        System.out.println("Enter your age: ");
+        System.out.print("Enter your age: ");
         age = sc.nextInt();
-        System.out.println("Enter your monthly income: ");
+        System.out.print("Enter your monthly income: ");
         income = sc.nextInt();
-        System.out.println("Do you have pending dues(true/false): ");
+        System.out.print("Do you have pending dues(true/false): ");
         b = sc.nextBoolean();
         sc.close();
 
