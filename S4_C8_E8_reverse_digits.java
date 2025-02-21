@@ -12,5 +12,8 @@ Output 2: -654
  */
 
 public class S4_C8_E8_reverse_digits {
+    public static void main(String[] args){
+        
     
+    }
 }
