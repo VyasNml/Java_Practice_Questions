@@ -8,5 +8,5 @@ Output: 2, 3, 5, 7, 11, 13, 17, 19
  */
 
 public class S4_C25_E25_Sieve_of_Eratosthenes_algorithm {
-    
+    //Sieve of Eratosthenes algorithm
 }
