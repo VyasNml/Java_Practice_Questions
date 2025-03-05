@@ -35,5 +35,5 @@ Updated Details: Name: John, Roll Number: 101, Marks: 99.55
  */
 
 public class S4_C10_E10_Student_class {
-    
+    public static void main(String[] args){}
 }
