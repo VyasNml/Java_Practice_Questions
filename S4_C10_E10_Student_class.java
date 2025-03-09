@@ -33,7 +33,29 @@ Update marks by percentage increase:
 Percentage: 10
 Updated Details: Name: John, Roll Number: 101, Marks: 99.55
  */
+import java.util.*;
+
+class Student{
+        String name;
+        int rollNumber;
+        float marks;
+    
+    Student(String n,int r,float m){
+        this.name = n;
+        this.rollNumber = r;
+        this.marks = m;
+    }
+};
 
 public class S4_C10_E10_Student_class {
-    public static void main(String[] args){}
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        String name = sc.nextLine();
+        int rollNumber = sc.nextInt();
+        float marks = nextFloat();
+        Student s1 = new Student(name,rollNumber,marks);
+        
+        float
+
+    }
 }
