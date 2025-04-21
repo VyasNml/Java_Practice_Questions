@@ -20,7 +20,8 @@ Output:
 Original permissions: 1010
 Updated permissions: 1110
  */
-
 public class S4_C5_E5_4_Bit_Permission_scheme {
-    
+    public static void main(String[] args){
+        return;
+    }
 }
